@@ -18,15 +18,5 @@ en el programa.
   Con '\t\n' te mostrara \t\n, en cambio con "\t\n" te  deja los espacio  s como si pulsaras tabulador y luego te hace un salto de línea.
   
   Respuesta a la pregunta del punto 35:
-  Con %q te devuelve una cadena donde los caracteres interpolables no son interpretados Por lo tanto, %q{Hello world\n} te duelve "Hello World\\n". Ahora en el caso de
-%q{'a' 'b' 'c'} devuelve "'a' 'b' 'c'".
-  
-  Respuesta a la pregunta del punto 36:
-  Con %Q te devuelve una cadena donde los caracteres interpolabless son interpretados. Por lo tanto con %Q{Hello world\n} te duelve "Hello world \n". Ahora en el caso de
-%Q{"a" "b" "c"} devuelve "\"a\" \"b\" \"c\"".
-
-
-
-  
   
   
