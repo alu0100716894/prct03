@@ -25,7 +25,8 @@ en el programa.
   Con %Q te devuelve una cadena donde los caracteres interpolabless son interpretados. Por lo tanto con %Q{Hello world\n} te duelve "Hello world \n". Ahora en el caso de
 %Q{"a" "b" "c"} devuelve "\"a\" \"b\" \"c\"".
 
-
+  Respuesta a la pregunta del punto 37:
+  "--4--\n--2--\n"
 
   
   
